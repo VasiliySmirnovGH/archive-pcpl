@@ -15,4 +15,4 @@
 
 | № | Ссылка |
 |---|--------|
-| RK 1 | [Открыть]() |
+| RK 1 | [Открыть](https://github.com/VasiliySmirnovGH/pcpl-rk1) |
